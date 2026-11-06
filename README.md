@@ -32,3 +32,7 @@ An interactive Power BI dashboard developed to analyse Motorola mobile sales per
 
 ## Project File
 The Power BI `.pbix` file is available in this repository.
+
+## Dashboard Preview
+
+![Motorola Dashboard](<Motorola sales dashboard.png>)
